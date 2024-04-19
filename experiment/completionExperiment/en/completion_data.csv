@@ -1,0 +1,142 @@
+The new policy aims to promote economic growth and [MASK] creation.,
+LLM,
+The new policy aims to promote economic growth and job creation.,1
+The new policy aims to promote economic growth and wealth creation.,1
+The new policy aims to promote economic growth and health creation.,1
+The new policy aims to promote economic growth and opportunity creation.,1
+The new policy aims to promote economic growth and innovation creation.,1
+BERT,
+The new policy aims to promote economic growth and job creation.,1
+The new policy aims to promote economic growth and jobs creation.,0
+The new policy aims to promote economic growth and employment creation.,1
+The new policy aims to promote economic growth and wealth creation.,1
+The new policy aims to promote economic growth and business creation.,1
+*****************************************,
+The comedy show had the audience roaring with laughter from start to [MASK].,
+LLM,
+The comedy show had the audience roaring with laughter from start to finish.,1
+The comedy show had the audience roaring with laughter from start to end.,1
+The comedy show had the audience roaring with laughter from start to conclusion.,1
+The comedy show had the audience roaring with laughter from start to finale.,1
+The comedy show had the audience roaring with laughter from start to climax.,1
+BERT,
+The comedy show had the audience roaring with laughter from start to finish.,1
+The comedy show had the audience roaring with laughter from start to end.,0
+The comedy show had the audience roaring with laughter from start to stop.,1
+The comedy show had the audience roaring with laughter from start to conclusion.,1
+The comedy show had the audience roaring with laughter from start to finished.,0
+*****************************************,
+I enjoyed exploring the charming [MASK] of the historic town and discovering its hidden gems.,
+LLM,
+I enjoyed exploring the charming streets of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming shops of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming alleys of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming neighborhoods of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming architecture of the historic town and discovering its hidden gems.,1
+BERT,
+I enjoyed exploring the charming beauty of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming charm of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming history of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming nature of the historic town and discovering its hidden gems.,1
+I enjoyed exploring the charming charms of the historic town and discovering its hidden gems.,0
+*****************************************,
+The election results surprised many as the underdog [MASK] emerged victorious.,
+LLM,
+The election results surprised many as the underdog candidate emerged victorious.,1
+The election results surprised many as the underdog team emerged victorious.,1
+The election results surprised many as the underdog party emerged victorious.,1
+The election results surprised many as the underdog player emerged victorious.,1
+The election results surprised many as the underdog competitor emerged victorious.,1
+BERT,
+The election results surprised many as the underdog ##s emerged victorious.,0
+The election results surprised many as the underdog party emerged victorious.,1
+The election results surprised many as the underdog candidates emerged victorious.,1
+The election results surprised many as the underdog coalition emerged victorious.,1
+The election results surprised many as the underdog team emerged victorious.,1
+*****************************************,
+The thrilling roller coaster [MASK] left us exhilarated and craving for more.,
+LLM,
+The thrilling roller coaster ride left us exhilarated and craving for more.,1
+The thrilling roller coaster experience left us exhilarated and craving for more.,1
+The thrilling roller coaster journey left us exhilarated and craving for more.,1
+The thrilling roller coaster adventure left us exhilarated and craving for more.,1
+The thrilling roller coaster excitement left us exhilarated and craving for more.,1
+BERT,
+The thrilling roller coaster ride left us exhilarated and craving for more.,1
+The thrilling roller coaster rides left us exhilarated and craving for more.,0
+The thrilling roller coaster experience left us exhilarated and craving for more.,1
+The thrilling roller coaster ##s left us exhilarated and craving for more.,0
+The thrilling roller coaster had left us exhilarated and craving for more.,1
+*****************************************,
+I marveled at the breathtaking [MASK] from the summit of the mountain.,
+LLM,
+I marveled at the breathtaking view from the summit of the mountain.,1
+I marveled at the breathtaking sight from the summit of the mountain.,1
+I marveled at the breathtaking panorama from the summit of the mountain.,1
+I marveled at the breathtaking landscape from the summit of the mountain.,1
+I marveled at the breathtaking scenery from the summit of the mountain.,1
+BERT,
+I marveled at the breathtaking view from the summit of the mountain.,1
+I marveled at the breathtaking views from the summit of the mountain.,0
+I marveled at the breathtaking sight from the summit of the mountain.,1
+I marveled at the breathtaking panorama from the summit of the mountain.,1
+I marveled at the breathtaking vista from the summit of the mountain.,1
+*****************************************,
+The political [MASK] sparked intense discussions among the participants.,
+LLM,
+The political debate sparked intense discussions among the participants.  ,1
+The political scandal sparked intense discussions among the participants.  ,1
+The political crisis sparked intense discussions among the participants.  ,1
+The political decision sparked intense discussions among the participants.  ,1
+The political issue sparked intense discussions among the participants.  ,1
+BERT,
+The political situation sparked intense discussions among the participants.,1
+The political debate sparked intense discussions among the participants.,1
+The political event sparked intense discussions among the participants.,1
+The political party sparked intense discussions among the participants.,1
+The political issue sparked intense discussions among the participants.,1
+*****************************************,
+The concert was a mesmerizing experience with incredible [MASK] by talented artists.,
+LLM,
+The concert was a mesmerizing experience with incredible music by talented artists.,1
+The concert was a mesmerizing experience with incredible performances by talented artists.,1
+The concert was a mesmerizing experience with incredible vocals by talented artists.,1
+The concert was a mesmerizing experience with incredible skills by talented artists.,1
+The concert was a mesmerizing experience with incredible talent by talented artists.,1
+BERT,
+The concert was a mesmerizing experience with incredible performances by talented artists.,1
+The concert was a mesmerizing experience with incredible performance by talented artists.,0
+The concert was a mesmerizing experience with incredible concerts by talented artists.,1
+The concert was a mesmerizing experience with incredible participation by talented artists.,1
+The concert was a mesmerizing experience with incredible appearances by talented artists.,1
+*****************************************,
+"We embarked on an adventurous [MASK] , spotting wild animals in their natural habitat.",
+LLM,
+"We embarked on an adventurous safari, spotting wild animals in their natural habitat.  ",1
+"We embarked on an adventurous journey, spotting wild animals in their natural habitat.  ",1
+"We embarked on an adventurous expedition, spotting wild animals in their natural habitat.  ",1
+"We embarked on an adventurous exploration, spotting wild animals in their natural habitat.  ",1
+"We embarked on an adventurous trek, spotting wild animals in their natural habitat.  ",1
+BERT,
+"We embarked on an adventurous journey , spotting wild animals in their natural habitat.",1
+"We embarked on an adventurous trip , spotting wild animals in their natural habitat.",1
+"We embarked on an adventurous tour , spotting wild animals in their natural habitat.",1
+"We embarked on an adventurous adventure , spotting wild animals in their natural habitat.",1
+"We embarked on an adventurous quest , spotting wild animals in their natural habitat.",1
+*****************************************,
+The new movie [MASK] has generated a lot of buzz and anticipation among fans.,
+LLM,
+The new movie trailer has generated a lot of buzz and anticipation among fans.,1
+The new movie release has generated a lot of buzz and anticipation among fans.,1
+The new movie premiere has generated a lot of buzz and anticipation among fans.,1
+The new movie teaser has generated a lot of buzz and anticipation among fans.,1
+The new movie sequel has generated a lot of buzz and anticipation among fans.,1
+BERT,
+The new movie trailer has generated a lot of buzz and anticipation among fans.,1
+The new movie release has generated a lot of buzz and anticipation among fans.,1
+The new movie series has generated a lot of buzz and anticipation among fans.,1
+The new movie adaptation has generated a lot of buzz and anticipation among fans.,1
+The new movie script has generated a lot of buzz and anticipation among fans.,1
+*****************************************,
+,
+42/50=84%,
