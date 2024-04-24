@@ -41,6 +41,14 @@ def calculate_node_attribute_difference(tree1, tree2):
     return differences
 
 
+def calculate_node_difference(tree1, tree2):
+    differences = 0
+    for node1, node2 in zip(tree1.subtrees(), tree2.subtrees()):
+        if node1 != node2:
+            differences += 1
+    return differences
+
+
 def get_feature_vector(con_tree1_str, con_tree2_str, dep_tree1_str, dep_tree2_str):
     tree1 = Tree.fromstring(con_tree1_str)
     tree2 = Tree.fromstring(con_tree2_str)
@@ -61,7 +69,7 @@ def get_feature_vector(con_tree1_str, con_tree2_str, dep_tree1_str, dep_tree2_st
     node_difference = calculate_node_attribute_difference(tree1, tree2)
 
     # Node changes
-    node_changes = node_difference
+    node_changes = calculate_node_difference(tree1, tree2)
 
     # POS changes
     pos_changes = defaultdict(int)

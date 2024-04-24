@@ -8,13 +8,17 @@ def test_get_difference(t1, t2, t3, t4):
 
 
 if __name__ == '__main__':
-    sentence1 = "This impressive literary work is renowned for its profound content and beautiful language, hailed as a classic of contemporary literature."
-    sentence2 = "This impressive literary work is renowned for its profound content and beautiful language, hailed as a classic of contemporary literature."
+    sentence1 = "Politics is a field full of variables and challenges, requiring wise and stable leadership."
+    sentence2 = "Politics is a field full of variables and challenges, requiring wise and stable leaderships."
 
     tree1 = get_constituency_tree(sentence1)
     tree2 = get_constituency_tree(sentence2)
     tree3 = get_dependency_tree(sentence1)
     tree4 = get_dependency_tree(sentence2)
+    print(tree1)
+    print(tree2)
+    print(tree3)
+    print(tree4)
     test_get_difference(tree1, tree2, tree3, tree4)
 
 # [0.9212154158065465, 3, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 5, 9, 3, 14]
